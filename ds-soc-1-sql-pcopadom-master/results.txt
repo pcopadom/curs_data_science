@@ -1,0 +1,8 @@
+    name    | price |      category       | instock | units 
+------------+-------+---------------------+---------+-------
+ whole milk |   1.2 | dairy               | t       |    10
+ whole milk |   1.2 | dairy               | t       |    10
+ chicken    |   5.8 | meat                | t       |     4
+ mango      |  3.17 | fruits & vegetables | f       |      
+(4 rows)
+
